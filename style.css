@@ -1,0 +1,19 @@
+a  {
+ color: #FF0000;
+}
+a:visited {
+ color: #008000;
+}
+a:hover {
+ color: #FFFF00;
+}
+footer {
+  padding-left: 16px;
+  background-color: red;
+  grid-column: span 3;
+  color: white;
+}
+h1 {
+  background-color: blue;
+  color: white;
+}
